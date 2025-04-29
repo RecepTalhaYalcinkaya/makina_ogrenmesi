@@ -1,0 +1,10 @@
+Machine learning 3 kısma ayrılır:
+1-)DENETİMLİ ÖĞRENME
+Denetimli öğrenmenin amacı, makinenin birçok etiketli örnekten öğrenmesidir.
+
+2-)DENETİMSİZ ÖĞRENME
+Denetimsiz öğrenme yöntemi, karmaşık verileri basitleştirmek ve veri analizini geliştirmek için verileri farklı kümeler halinde düzenlemeyi veya farklı bakış açılarını keşfetmeyi içerir
+ÖRN: Bir makine öğrenimi sisteminin, hayvan türleri hakkında bilgi içermeyen bir vahşi yaşam fotoğrafları koleksiyonunu sıralamakla görevlendirildiğini düşünün. Bu örnekte, denetimsiz öğrenme algoritmaları görüntülerdeki benzer özellikleri belirleyebilir ve belirli bir hayvan hakkında açıkça talimat verilmeden bunları gruplandırabilir.
+
+3-)TAKVİYELİ ÖĞRENME
+Algoritma, çıktılar oluşturmak için girdi verilerini işler ve ardından çıktının etkinliğini ölçen anlık bir geri bildirim sinyali alır.
