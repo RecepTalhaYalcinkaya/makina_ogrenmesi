@@ -2,6 +2,20 @@ Machine learning 3 kısma ayrılır:
 1-)DENETİMLİ ÖĞRENME
 Denetimli öğrenmenin amacı, makinenin birçok etiketli örnekten öğrenmesidir.
 
+KULLANIM ALANLARI:
+E-posta spam filtreleme
+Hastalık teşhisi
+Kredi skorlama
+Görüntü sınıflandırma
+
+POPÜLER ALGORİTMALARI:
+Linear Regression
+Logistic Regression
+Decision Trees
+Random Forest
+Support Vector Machines (SVM)
+Neural Networks
+
 2-)DENETİMSİZ ÖĞRENME
 Denetimsiz öğrenme yöntemi, karmaşık verileri basitleştirmek ve veri analizini geliştirmek için verileri farklı kümeler halinde düzenlemeyi veya farklı bakış açılarını keşfetmeyi içerir
 ÖRN: Bir makine öğrenimi sisteminin, hayvan türleri hakkında bilgi içermeyen bir vahşi yaşam fotoğrafları koleksiyonunu sıralamakla görevlendirildiğini düşünün. Bu örnekte, denetimsiz öğrenme algoritmaları görüntülerdeki benzer özellikleri belirleyebilir ve belirli bir hayvan hakkında açıkça talimat verilmeden bunları gruplandırabilir.
