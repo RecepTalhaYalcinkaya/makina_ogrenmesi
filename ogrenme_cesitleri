@@ -37,3 +37,16 @@ Autoencoders
 
 3-)TAKVİYELİ ÖĞRENME
 Algoritma, çıktılar oluşturmak için girdi verilerini işler ve ardından çıktının etkinliğini ölçen anlık bir geri bildirim sinyali alır.
+
+KULLANIM ALANLARI:
+Oyun oynayan yapay zeka (örneğin: AlphaGo)
+Otonom araçlar
+Robot hareket kontrolü
+Portföy optimizasyonu
+
+POPÜLER ALGORİTMALAR:
+Q-Learning
+Deep Q-Networks (DQN)
+Proximal Policy Optimization (PPO)
+Policy Gradient Methods
+SARSA
